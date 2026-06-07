@@ -156,3 +156,5 @@ react-router.config.ts  # React Router v7設定
 ## 関連リポジトリ
 
 - [sbcntr-backend](https://github.com/uma-arai/sbcntr-backend)
+
+# 再ビルドのため差分を作る
